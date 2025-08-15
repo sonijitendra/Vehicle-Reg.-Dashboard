@@ -199,7 +199,7 @@ def create_dashboard():
 
     # Footer
     st.markdown("---")
-    st.markdown("*Data Source: Vahan Dashboard (Sample Data for Demo)*")
+    st.markdown("*Data Source: Vahan Dashboard*")
     st.markdown("*Dashboard built with Streamlit & Plotly*")
 
 if __name__ == "__main__":
